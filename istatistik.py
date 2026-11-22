@@ -45,3 +45,4 @@ with open("istatistik/gecmis.jsonl", "a", encoding="utf-8") as f:
                         "videolar": {v["id"]: [v["izlenme"], v["begeni"], v["yorum"]] for v in vids}}, ensure_ascii=False) + "\n")
 print(out["kanal"], out["abone"], "abone,", len(vids), "video, analytics:", out["analytics_var"])
 # guncel: analytics izni eklendi
+# analytics api acildi
