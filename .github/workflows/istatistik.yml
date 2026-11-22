@@ -1,0 +1,33 @@
+name: YouTube Istatistik
+on:
+  schedule:
+    - cron: "17 4,16 * * *"
+  workflow_dispatch:
+  push:
+    paths: ["istatistik.py"]
+permissions:
+  contents: write
+concurrency:
+  group: yayin
+  cancel-in-progress: false
+jobs:
+  istatistik:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Istatistik topla
+        env:
+          YT_CLIENT_ID: 907478970445-t4a3kkordmfk7es2ff5iio6j53d79fvc.apps.googleusercontent.com
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIEND_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python istatistik.py
+      - name: Kaydet
+        run: |
+          git config user.name "yayin-bot"
+          git config user.email "yayin-bot@users.noreply.github.com"
+          git add istatistik
+          git diff --cached --quiet || (git commit -m "Istatistik guncellendi" && git pull --rebase && git push)
