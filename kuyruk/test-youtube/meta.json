@@ -1,0 +1,6 @@
+{
+  "test": true,
+  "tiktok": false,
+  "yayin_zamani": "2026-11-22T20:50:00+03:00",
+  "youtube": {"title": "TEST - silinecek", "description": "Sistem denemesi", "tags": ["test"]}
+}

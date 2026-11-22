@@ -24,7 +24,9 @@ def yt_upload(folder, meta, pub):
     body = {"snippet": {"title": y["title"][:100], "description": y.get("description", ""),
                         "tags": y.get("tags", []), "categoryId": "27", "defaultLanguage": "tr"},
             "status": {"privacyStatus": "private", "selfDeclaredMadeForKids": False}}
-    if pub > NOW + dt.timedelta(minutes=20):
+    if meta.get("test"):
+        pass  # deneme: gizli kalir
+    elif pub > NOW + dt.timedelta(minutes=20):
         body["status"]["publishAt"] = pub.strftime("%Y-%m-%dT%H:%M:%SZ")
     else:
         body["status"]["privacyStatus"] = "public"
