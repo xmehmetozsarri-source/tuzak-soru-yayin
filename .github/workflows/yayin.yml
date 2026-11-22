@@ -21,7 +21,7 @@ jobs:
       - run: pip install requests
       - name: Yayinla
         env:
-          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_ID: 907478970445-t4a3kkordmfk7es2ff5iio6j53d79fvc.apps.googleusercontent.com
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIEND_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           TT_CLIENT_KEY: ${{ secrets.TT_CLIENT_KEY }}
