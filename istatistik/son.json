@@ -1,29 +1,19 @@
 {
- "zaman": "2026-11-23T05:36+00:00",
+ "zaman": "2026-11-23T17:22+00:00",
  "kanal": "Tuzak Soru",
  "abone": 0,
  "toplam_izlenme": 0,
- "video_sayisi": 0,
+ "video_sayisi": 1,
  "analytics_var": true,
  "videolar": [
   {
-   "id": "dd7btAR2qBk",
-   "baslik": "TEST - silinecek",
-   "yayin": "2026-11-22T17:45:35Z",
-   "durum": "private",
-   "sure": "PT34S",
-   "izlenme": 0,
-   "begeni": 0,
-   "yorum": 0
-  },
-  {
    "id": "ZLAggLup00g",
    "baslik": "Anadolu Hisarı'nı Kim Yaptırdı? Fatih Dediysen Tuzağa Düştün 😅 KPSS Tarih",
-   "yayin": "2026-11-22T14:04:05Z",
-   "durum": "private",
+   "yayin": "2026-11-23T16:00:33Z",
+   "durum": "public",
    "sure": "PT34S",
-   "izlenme": 0,
-   "begeni": 0,
+   "izlenme": 80,
+   "begeni": 1,
    "yorum": 0
   }
  ]
