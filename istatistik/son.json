@@ -1,19 +1,19 @@
 {
- "zaman": "2026-11-24T05:25+00:00",
+ "zaman": "2026-11-24T17:19+00:00",
  "kanal": "Tuzak Soru",
  "abone": 0,
- "toplam_izlenme": 0,
- "video_sayisi": 1,
+ "toplam_izlenme": 395,
+ "video_sayisi": 2,
  "analytics_var": true,
  "videolar": [
   {
    "id": "yua6HCpqg8E",
    "baslik": "Türkiye'nin En Uzun Nehri Hangisi? Fırat Diyen Yandı 😅 #KPSS #shorts",
-   "yayin": "2026-11-23T18:37:05Z",
-   "durum": "private",
+   "yayin": "2026-11-24T16:00:33Z",
+   "durum": "public",
    "sure": "PT23S",
-   "izlenme": 0,
-   "begeni": 0,
+   "izlenme": 138,
+   "begeni": 1,
    "yorum": 0
   },
   {
@@ -22,8 +22,8 @@
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 392,
-   "begeni": 4,
+   "izlenme": 412,
+   "begeni": 3,
    "yorum": 1
   }
  ]
