@@ -1,5 +1,5 @@
 {
- "zaman": "2026-11-23T17:22+00:00",
+ "zaman": "2026-11-24T05:25+00:00",
  "kanal": "Tuzak Soru",
  "abone": 0,
  "toplam_izlenme": 0,
@@ -7,14 +7,24 @@
  "analytics_var": true,
  "videolar": [
   {
+   "id": "yua6HCpqg8E",
+   "baslik": "Türkiye'nin En Uzun Nehri Hangisi? Fırat Diyen Yandı 😅 #KPSS #shorts",
+   "yayin": "2026-11-23T18:37:05Z",
+   "durum": "private",
+   "sure": "PT23S",
+   "izlenme": 0,
+   "begeni": 0,
+   "yorum": 0
+  },
+  {
    "id": "ZLAggLup00g",
    "baslik": "Anadolu Hisarı'nı Kim Yaptırdı? Fatih Dediysen Tuzağa Düştün 😅 KPSS Tarih",
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 80,
-   "begeni": 1,
-   "yorum": 0
+   "izlenme": 392,
+   "begeni": 4,
+   "yorum": 1
   }
  ]
 }
