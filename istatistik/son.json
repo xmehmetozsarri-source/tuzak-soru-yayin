@@ -1,18 +1,28 @@
 {
- "zaman": "2026-11-25T05:27+00:00",
+ "zaman": "2026-11-25T17:18+00:00",
  "kanal": "Tuzak Soru",
- "abone": 4,
- "toplam_izlenme": 1655,
- "video_sayisi": 2,
+ "abone": 3,
+ "toplam_izlenme": 1796,
+ "video_sayisi": 3,
  "analytics_var": true,
  "videolar": [
+  {
+   "id": "CKMYP0mes8o",
+   "baslik": "Milletvekili Olmak İçin Kaç Yaş Gerekir? Hâlâ 25 Sanan Çok 😅 #KPSS #shorts",
+   "yayin": "2026-11-25T16:00:12Z",
+   "durum": "public",
+   "sure": "PT22S",
+   "izlenme": 68,
+   "begeni": 0,
+   "yorum": 0
+  },
   {
    "id": "yua6HCpqg8E",
    "baslik": "Türkiye'nin En Uzun Nehri Hangisi? Fırat Diyen Yandı 😅 #KPSS #shorts",
    "yayin": "2026-11-24T16:00:33Z",
    "durum": "public",
    "sure": "PT23S",
-   "izlenme": 1132,
+   "izlenme": 1144,
    "begeni": 6,
    "yorum": 0
   },
@@ -22,8 +32,8 @@
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 568,
-   "begeni": 4,
+   "izlenme": 693,
+   "begeni": 6,
    "yorum": 1
   }
  ]
