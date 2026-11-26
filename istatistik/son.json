@@ -1,5 +1,5 @@
 {
- "zaman": "2026-11-25T17:18+00:00",
+ "zaman": "2026-11-26T05:29+00:00",
  "kanal": "Tuzak Soru",
  "abone": 3,
  "toplam_izlenme": 1796,
@@ -12,9 +12,9 @@
    "yayin": "2026-11-25T16:00:12Z",
    "durum": "public",
    "sure": "PT22S",
-   "izlenme": 68,
-   "begeni": 0,
-   "yorum": 0
+   "izlenme": 1059,
+   "begeni": 1,
+   "yorum": 1
   },
   {
    "id": "yua6HCpqg8E",
@@ -22,7 +22,7 @@
    "yayin": "2026-11-24T16:00:33Z",
    "durum": "public",
    "sure": "PT23S",
-   "izlenme": 1144,
+   "izlenme": 1270,
    "begeni": 6,
    "yorum": 0
   },
@@ -32,9 +32,18 @@
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 693,
+   "izlenme": 745,
    "begeni": 6,
-   "yorum": 1
+   "yorum": 1,
+   "analytics": {
+    "views": 395,
+    "estimatedMinutesWatched": 45,
+    "averageViewDuration": 16,
+    "averageViewPercentage": 49.19,
+    "subscribersGained": 0,
+    "likes": 4,
+    "shares": 0
+   }
   }
  ]
 }
