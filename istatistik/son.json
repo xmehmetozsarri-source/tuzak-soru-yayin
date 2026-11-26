@@ -1,19 +1,29 @@
 {
- "zaman": "2026-11-26T05:29+00:00",
+ "zaman": "2026-11-26T17:25+00:00",
  "kanal": "Tuzak Soru",
  "abone": 3,
- "toplam_izlenme": 1796,
- "video_sayisi": 3,
+ "toplam_izlenme": 3158,
+ "video_sayisi": 4,
  "analytics_var": true,
  "videolar": [
+  {
+   "id": "zbOikXkm06c",
+   "baslik": "Atatürk'e Soyadını Kim Verdi? Çoğu Kişi Yanlış Biliyor 😳 #KPSS #shorts",
+   "yayin": "2026-11-26T16:00:03Z",
+   "durum": "public",
+   "sure": "PT27S",
+   "izlenme": 243,
+   "begeni": 1,
+   "yorum": 1
+  },
   {
    "id": "CKMYP0mes8o",
    "baslik": "Milletvekili Olmak İçin Kaç Yaş Gerekir? Hâlâ 25 Sanan Çok 😅 #KPSS #shorts",
    "yayin": "2026-11-25T16:00:12Z",
    "durum": "public",
    "sure": "PT22S",
-   "izlenme": 1059,
-   "begeni": 1,
+   "izlenme": 1223,
+   "begeni": 2,
    "yorum": 1
   },
   {
@@ -22,7 +32,7 @@
    "yayin": "2026-11-24T16:00:33Z",
    "durum": "public",
    "sure": "PT23S",
-   "izlenme": 1270,
+   "izlenme": 1353,
    "begeni": 6,
    "yorum": 0
   },
@@ -32,7 +42,7 @@
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 745,
+   "izlenme": 746,
    "begeni": 6,
    "yorum": 1,
    "analytics": {
