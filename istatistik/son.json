@@ -1,8 +1,8 @@
 {
- "zaman": "2026-11-26T17:25+00:00",
+ "zaman": "2026-11-27T05:28+00:00",
  "kanal": "Tuzak Soru",
- "abone": 3,
- "toplam_izlenme": 3158,
+ "abone": 5,
+ "toplam_izlenme": 4856,
  "video_sayisi": 4,
  "analytics_var": true,
  "videolar": [
@@ -12,8 +12,8 @@
    "yayin": "2026-11-26T16:00:03Z",
    "durum": "public",
    "sure": "PT27S",
-   "izlenme": 243,
-   "begeni": 1,
+   "izlenme": 1166,
+   "begeni": 4,
    "yorum": 1
   },
   {
@@ -22,8 +22,8 @@
    "yayin": "2026-11-25T16:00:12Z",
    "durum": "public",
    "sure": "PT22S",
-   "izlenme": 1223,
-   "begeni": 2,
+   "izlenme": 1388,
+   "begeni": 4,
    "yorum": 1
   },
   {
@@ -32,9 +32,18 @@
    "yayin": "2026-11-24T16:00:33Z",
    "durum": "public",
    "sure": "PT23S",
-   "izlenme": 1353,
-   "begeni": 6,
-   "yorum": 0
+   "izlenme": 1558,
+   "begeni": 7,
+   "yorum": 0,
+   "analytics": {
+    "views": 1138,
+    "estimatedMinutesWatched": 170,
+    "averageViewDuration": 18,
+    "averageViewPercentage": 78.49,
+    "subscribersGained": 2,
+    "likes": 6,
+    "shares": 0
+   }
   },
   {
    "id": "ZLAggLup00g",
@@ -42,15 +51,15 @@
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 746,
+   "izlenme": 756,
    "begeni": 6,
    "yorum": 1,
    "analytics": {
-    "views": 395,
-    "estimatedMinutesWatched": 45,
-    "averageViewDuration": 16,
-    "averageViewPercentage": 49.19,
-    "subscribersGained": 0,
+    "views": 624,
+    "estimatedMinutesWatched": 81,
+    "averageViewDuration": 17,
+    "averageViewPercentage": 50.61,
+    "subscribersGained": 2,
     "likes": 4,
     "shares": 0
    }
