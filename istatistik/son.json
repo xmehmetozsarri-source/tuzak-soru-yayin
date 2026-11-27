@@ -1,8 +1,8 @@
 {
- "zaman": "2026-11-27T05:28+00:00",
+ "zaman": "2026-11-27T17:25+00:00",
  "kanal": "Tuzak Soru",
  "abone": 5,
- "toplam_izlenme": 4856,
+ "toplam_izlenme": 4908,
  "video_sayisi": 4,
  "analytics_var": true,
  "videolar": [
@@ -12,7 +12,7 @@
    "yayin": "2026-11-26T16:00:03Z",
    "durum": "public",
    "sure": "PT27S",
-   "izlenme": 1166,
+   "izlenme": 1174,
    "begeni": 4,
    "yorum": 1
   },
@@ -22,7 +22,7 @@
    "yayin": "2026-11-25T16:00:12Z",
    "durum": "public",
    "sure": "PT22S",
-   "izlenme": 1388,
+   "izlenme": 1507,
    "begeni": 4,
    "yorum": 1
   },
@@ -32,8 +32,8 @@
    "yayin": "2026-11-24T16:00:33Z",
    "durum": "public",
    "sure": "PT23S",
-   "izlenme": 1558,
-   "begeni": 7,
+   "izlenme": 1621,
+   "begeni": 8,
    "yorum": 0,
    "analytics": {
     "views": 1138,
@@ -51,7 +51,7 @@
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 756,
+   "izlenme": 757,
    "begeni": 6,
    "yorum": 1,
    "analytics": {
