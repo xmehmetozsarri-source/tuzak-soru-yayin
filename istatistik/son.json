@@ -1,5 +1,5 @@
 {
- "zaman": "2026-11-27T17:25+00:00",
+ "zaman": "2026-11-28T05:20+00:00",
  "kanal": "Tuzak Soru",
  "abone": 5,
  "toplam_izlenme": 4908,
@@ -12,7 +12,7 @@
    "yayin": "2026-11-26T16:00:03Z",
    "durum": "public",
    "sure": "PT27S",
-   "izlenme": 1174,
+   "izlenme": 1173,
    "begeni": 4,
    "yorum": 1
   },
@@ -22,9 +22,18 @@
    "yayin": "2026-11-25T16:00:12Z",
    "durum": "public",
    "sure": "PT22S",
-   "izlenme": 1507,
-   "begeni": 4,
-   "yorum": 1
+   "izlenme": 1577,
+   "begeni": 5,
+   "yorum": 1,
+   "analytics": {
+    "views": 1058,
+    "estimatedMinutesWatched": 143,
+    "averageViewDuration": 15,
+    "averageViewPercentage": 69.47,
+    "subscribersGained": 0,
+    "likes": 1,
+    "shares": 0
+   }
   },
   {
    "id": "yua6HCpqg8E",
@@ -32,14 +41,14 @@
    "yayin": "2026-11-24T16:00:33Z",
    "durum": "public",
    "sure": "PT23S",
-   "izlenme": 1621,
-   "begeni": 8,
+   "izlenme": 1674,
+   "begeni": 7,
    "yorum": 0,
    "analytics": {
-    "views": 1138,
-    "estimatedMinutesWatched": 170,
+    "views": 1285,
+    "estimatedMinutesWatched": 201,
     "averageViewDuration": 18,
-    "averageViewPercentage": 78.49,
+    "averageViewPercentage": 79.33,
     "subscribersGained": 2,
     "likes": 6,
     "shares": 0
@@ -51,16 +60,16 @@
    "yayin": "2026-11-23T16:00:33Z",
    "durum": "public",
    "sure": "PT34S",
-   "izlenme": 757,
+   "izlenme": 758,
    "begeni": 6,
    "yorum": 1,
    "analytics": {
-    "views": 624,
-    "estimatedMinutesWatched": 81,
+    "views": 744,
+    "estimatedMinutesWatched": 102,
     "averageViewDuration": 17,
-    "averageViewPercentage": 50.61,
+    "averageViewPercentage": 51.92,
     "subscribersGained": 2,
-    "likes": 4,
+    "likes": 6,
     "shares": 0
    }
   }
